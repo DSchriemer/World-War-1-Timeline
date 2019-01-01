@@ -1,6 +1,6 @@
 {
-  "name": "tutorial",
-  "version": "1.0.0",
+  "name": "Website",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "start": "node server.js"
