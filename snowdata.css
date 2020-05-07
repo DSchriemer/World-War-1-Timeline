@@ -426,8 +426,13 @@ right: 50%;
     ul.timeline > li > .timeline-badge {
         left: -18px;
         margin-left: 0;
-        top: 16px;
+
     }
+    .timeline-body > p, .timeline-body > ul {
+    margin-bottom: 0;
+    font-size: 20px;
+    color: white;
+}
 
     ul.timeline > li > .timeline-panel {
         float: right;
