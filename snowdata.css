@@ -106,11 +106,12 @@ body {
   width: 90%;
 }
 
-.col-lg-3 {
+.col-lg {
   margin-top: 1%;
   text-align: center;
   font-size: 30px;
   background-color: transparent;
+  vertical-align: middle;
 }
 
 a {
@@ -211,6 +212,11 @@ right: 50%;
   font-size: 25px;
   color: white;
 
+}
+
+.timeline-date {
+    margin-top: 0;
+    color: white;
 }
 
 
@@ -350,15 +356,15 @@ right: 50%;
             }
 
 .timeline-badge.primary {
-    background-color: #2e6da4 !important;
+    background-color: #ffffff !important;
 }
 
 .timeline-badge.success {
-    background-color: #3f903f !important;
+    background-color: #ffffff !important;
 }
 
 .timeline-badge.warning {
-    background-color: #f0ad4e !important;
+    background-color: #ffffff !important;
 }
 
 .timeline-badge.danger {
@@ -419,4 +425,9 @@ right: 50%;
             left: -14px;
             right: auto;
         }
+
+        .timeline-date {
+          color: white;
+      padding-left: 55px;
+}
 }
