@@ -1,5 +1,5 @@
 # World War 1 Timeline
-This timeline is a webapp built with HTML, CSS, and Node.js 
+The World War 1 timeline is a web application built with HTML, CSS, and Node.js.
 
 ![](Images/screen1.png)
 
